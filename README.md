@@ -4,6 +4,12 @@ terraform azure sample
 
 ## Create resouces
 
+### set up azure cli
+
+create azure account and install `azure cli`.
+
+`az login` to login from terminal. Tenant id option (`--tenant <tenant id>`) may be required.
+
 ### create account for backend
 
 ```bash
