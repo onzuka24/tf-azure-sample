@@ -1,0 +1,4 @@
+# rename to <stage>.tfvars
+stage       = <dev | prod>
+vm_admin    = <vm admin name>
+vm_password = <password>
